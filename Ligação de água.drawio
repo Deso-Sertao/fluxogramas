@@ -1,1 +1,181 @@
-<mxfile modified="2019-07-25T15:02:34.473Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="11mhIKtL5UAzC6QQhQlN" version="11.0.5" type="github"><diagram id="wLkoinlVrgHqXl1Fj19s" name="FLUXOGRAMA GERAL">5VrbcuI4EP0aqnYfmPIFDDw6xhDvcskAmVxephSsGGWF5ZLFAPn6lWw5xpFJnM1wmdlUBazutmT16aNWy9RMZ7npUxAthsSHuGZo/qZmdmuGoTc6Jv8Skm0qaRvNVBBQ5EujXDBFz1AKNSldIR/GBUNGCGYoKgrnJAzhnBVkgFKyLpo9ElwcNQIBVATTOcCq9Ab5bCGlutXJFZcQBQuWza+VKpYgM5YziRfAJ+sdkenWTIcSwtKr5caBWDgv80t6X2+P1o7Q12mn07vvNv+GQ7L662Z2VzesdKwfAK/kBOz6dDzwHG9m1xyz1m4ln+Y4e3oKQ1Yy3HUM6fjhSXjU0DB44KimE//C2/bMHXW9oTuayW4wCv9J9T5goGbaiVeNHn9Ww7nsea3N7OrqO2BD4651s7zXrtLb3pyK/uKil6nHbJvBQskq9KG4X6+ZF+sFYnAagbnQrnkgctmCLbFUq3N923mQMrjZgV8+RR+SJWR0y02k1pRBkMW2hH69EygZ+oudGLGkDMjYDF46zgHgF3LeWXMHkg9EhKkEhIzG3JfQ5xEvm4SyBQlICLCbSy9yb2u8ldsMCImkj58gY1tJX7Bi5FMIxGRF5/C94OArAaABfLPD1E7M8E08KcSAoR9Fzn8AnorsVLAwBJ0mbt+bziZjBZizDHLDOFyUV3OjpTjqF4xgo2IEN88qgk1dCWHuGa0uksIoySz6wJu6CkDxGi0xCAUSjwhjh2BCE435mPxxeUCBj7hzM11IEnOe1xlAIaQShznBGEQxeki6FmAKrOIUNtGMuUuZhNFoH5IYervIDLOEGFYJMRqdQzHDVFcYR8Lj3rrOdckO4HcHyWy8C5LRPC5IakruZiCNHHcyseXOis/V3NgvzjkTpB55D7KtN3hbQIH4ftnGKAi5kIkF9XB4NjsnxDN6RqPrDX5whvfbm9uLYTB5WmR7keOmI+5Wur2V9yeNO9H40sya3c2usruVrZ++Eauax/RjJTJSUrXYkl97KqFE54xHs3SwLoznFAmtndjYJkm7cRmIgKhlYfKccxgVjfjshCso4tXPUtjxxzY0XpbCOEY+EHUsFwq7ORbchLVCGVRS8eytz/gF+XgtoCkrzzueOfkSpFdLFtm2pHrufj91tw61igS9yfd+L+jj5sp9upy4TmNQVqf13Yk9UKf6X04FOmrGqRdzzU8YJWN4odS0MO/wwkc/+GUgLpMDhG/2wOsqsZaY8kF3rEs6+OM6TLiU8XCAAlCg4Z/ZTQ/0dTevOz9GvdX5aGhabb0Qm9ku82T1VnZid6oMlye1u0JO+1yG61TNcM2KGc5oHCnDVUStodAxOW1QeX9+DLCsAgNKD9bKNnmHo0BbcaZT31dSfXYdVWvsfevo1WTc51D+T1bS9kfjqPEqy7etE6+k+q91GtuuukRWPY7NqoUzWSKzx3mbaemqWcL1qjSbQe4+RNEz8MHvRqnSnfNxOdU47e7kMPV3Veq1qjJPPyvmZe8Qds+R68UTZE38O3bXzl+NfDKxqvVJ+jazOGxXfHzz7AtP1ChJa5YYdJyR59jH4WXmnsq8NLRze0uj7pjOOdW1KvKtajHQOiu6qWzbl+dywmnOeOhOHE+cQVTNdN4ywiBkZ72L/DS1TOugr/nzH4Qkup2f1Zjuvw==</diagram><diagram id="HFI7xTPP_atM2Y7WmZ0P" name="A - ATENDIMENTO">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</diagram><diagram id="kKsgfe0-I46FzN-im9zf" name="Anotações gerais - provisório">3Vnfc9o4EP5rmEkf0vGPC0kejaE5bgjJQJq7V2ELo6ssUVkGkr++u5JsYiBt76Z2Z3gx9lrWane/XX2LemGc7+4UWa/uZUp5L/DSXS8c9oKgf+3DFQUvVnDlBVaQKZZakb8XzNkrdULPSUuW0qIxUEvJNVs3hYkUgia6ISNKyW1z2FLyptY1yeiRYJ4Qfiz9m6V65aR+/3b/4k/KspVTfRNc2xc5qQY7S4oVSeX2jSgc9cJYSantXb6LKUffVX75a1jeXC4fl1o9Fn7Sf/X7z/eXdrJP/+WT2gRFhf61U7tYbggvnb96QZ+DkkHKNmizfnGO7H8t0dCBpjt9STjLRC+MYMS/ZaHZ8mU/AO4y/I0+wtv5w2Qcj5+iXhz2bq7NNXyoVMBajRY7/pcp9lDxo0Jl0e0l0VSkLAfPydb1QqC8GU3o2ug25kZh+2oxgk+KAZBzOzYSRrXPWUExdQleaE6EuUORdsPbXVo10UIdSlpS6GPoo84i7puIxyuafAFXa+NlvMikRPWkSxgEHw34MliHal8X2h0tqNKlIpXZM/xGgG7vbh5Nzw1aAwOtqSlh/mQ8H8HjEC/P42gwnoyHkXl6MgNu4+k4jjoB+0EQHlSKaW0f5lRtmAWhrGSHtQEvz4wsGGcpMU9PtnImgiWkC9DGUhQl16RCz2B4h76lhbQm6DqBvEskCiQnKSlwSKllUdlgrcrKqsLds0TJnKYslQr4RycJkdCiIABIz6wcMhFqbuuasfqPhFZGcSIx+NYrwFZq73AJjIi9HlYk7wJKJVW0xkhs5pAAImGdbARKfi1Z8cF5lgiYyth5Xhk+pAkrKteYobHx5oKYTBENr9IdhldohJbF3i1SNFnYGYYbarkXDGFLSCQMjpnGfmhqdVon4BCrNluU7DA+JpeBGqdv3gyuaB3XBrvxiPmkGVGvkJwlTMO6e+Gnc4vZtBGvGTUgV6akFVoCyXFF4+Kn6+SHllc8Z46kPSqZAARUFbcEE87s3ZjFVCWM8HMLl633e0Pjjgw9TVi+t1dCs0V+51rHoqCKITgAL5j0oa0oF3Omy6MyHrSN2mqbSahSpCo3P3JiyysK7YpIzsSqXpOL25Ls2c1oR5OySyreeVrFmFajf0bx5y77bN/22TIDRHTa6vj/N5s7R4Jv0mZCLOe+rlEqcDXr067zLh45EYyvcMwdVYRXRgFRhlLEvwts+2bCMtIkDG0XiN+zlYzzNfiq60bboC8DntWshEA5mOliHAnHO86QIzoSwsRSqpwaTrZQlgyeiqBhbV1W0uBdMKE5vAGmLhwcmsJCi6PAWkcDH9amAbSO/iyqzvUd7GNOKQp0UNQ2PczPLiGGZhOYxqPZLLofTZ86Kf/PBP82OKpgPxOSjf3UJkrRIQPvPjJHjeXB9gSAripDXRVMwwatgcM7VJsO+rfDdgpzhuz3TxCYZrbLalD3S03yeV4IMZtZhwbaPeyQztvC2M1uc0L1rO0/TO3G8h4b25OuepN5S7ZObdWnVxs0Vhng8kC+0jkHgQ+32FB+obHkUoFESAEjB0vG+YHI2TRMkEOAfLABxgvpxyP3ImdpimoG2xXTdL4mCercKrIGmZKlSCke/nk4PZjjDmf9P+pl4oR0d3BQ+oNTRr8++sx3dxSaYq3A1141izssfWk+bvdHr1c3TrZ6e+rqOSFxx71ZPfP+SBNu3Klm9bg/fDXv3pxgh6Nv</diagram></mxfile>
+<mxfile modified="2019-11-05T23:54:14.112Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="0XdRhECcHE81KmOflfh8" version="12.2.0" type="github" pages="3">
+  <diagram id="wLkoinlVrgHqXl1Fj19s" name="FLUXOGRAMA GERAL">
+    <mxGraphModel dx="971" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-26" value="A-SOLICITAÇÃO" parent="0"/>
+        <UserObject label="1. ATENDIMENTO" link="data:page/id,HFI7xTPP_atM2Y7WmZ0P" id="ApiQS99FZD5KeMouJWTY-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="ApiQS99FZD5KeMouJWTY-26" vertex="1">
+            <mxGeometry x="39" y="87" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ApiQS99FZD5KeMouJWTY-26" source="ApiQS99FZD5KeMouJWTY-1" target="ApiQS99FZD5KeMouJWTY-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-2" value="2. REGISTRO" style="rounded=1;whiteSpace=wrap;html=1;" parent="ApiQS99FZD5KeMouJWTY-26" vertex="1">
+          <mxGeometry x="39" y="227" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ApiQS99FZD5KeMouJWTY-26" source="ApiQS99FZD5KeMouJWTY-2" target="ApiQS99FZD5KeMouJWTY-5" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-31" value="B - ANÁLISE" style="swimlane;fillColor=#ffffff;gradientColor=none;container=1;collapsible=0;autosize=0;startSize=28;" parent="ApiQS99FZD5KeMouJWTY-26" vertex="1">
+          <mxGeometry x="189" y="37" width="160" height="490" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-32" value="C - EXECUÇÃO" style="swimlane;fillColor=#ffffff;gradientColor=none;container=1;collapsible=0;autosize=0;startSize=28;" parent="ApiQS99FZD5KeMouJWTY-26" vertex="1">
+          <mxGeometry x="349" y="37" width="250" height="490" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-33" value="D - ENCERRAMENTO&#xa;" style="swimlane;fillColor=#ffffff;gradientColor=none;container=1;collapsible=0;autosize=0;startSize=28;fontSize=14;verticalAlign=top;" parent="ApiQS99FZD5KeMouJWTY-26" vertex="1">
+          <mxGeometry x="599" y="37" width="250" height="490" as="geometry"/>
+        </mxCell>
+        <mxCell id="pziNUxlbCMZyWXBMgRjh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ApiQS99FZD5KeMouJWTY-26" source="ApiQS99FZD5KeMouJWTY-12" target="ApiQS99FZD5KeMouJWTY-15" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <object label="A - SOLICITAÇÃO - CONT" Descrição="Etapa de recepção e triagem das necessidades do cliente" id="1">
+          <mxCell parent="0"/>
+        </object>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-30" value="A - SOLICITAÇÃO&#xa;" style="swimlane;fillColor=#ffffff;gradientColor=none;container=1;collapsible=0;autosize=1;startSize=28;" parent="1" vertex="1">
+          <mxGeometry x="19" y="37" width="170" height="490" as="geometry"/>
+        </mxCell>
+        <mxCell id="gFR_GFgGl5uEjHREC4LY-3" value="GERAL" parent="0"/>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-29" value="D-ENCERRAMENTO" parent="0"/>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-15" value="&lt;div&gt;1. VALIDAÇÃO&lt;/div&gt;&lt;div&gt;(Unidade de Ligação)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ApiQS99FZD5KeMouJWTY-29" vertex="1">
+          <mxGeometry x="681" y="89" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ApiQS99FZD5KeMouJWTY-29" source="ApiQS99FZD5KeMouJWTY-15" target="ApiQS99FZD5KeMouJWTY-24" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-24" value="2. ENCERRAMENTO" style="rounded=1;whiteSpace=wrap;html=1;" parent="ApiQS99FZD5KeMouJWTY-29" vertex="1">
+          <mxGeometry x="666" y="287" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-28" value="C-EXECUÇÃO" parent="0"/>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-11" value="&lt;div&gt;1. PROGRAMAÇÃO&lt;/div&gt;&lt;div&gt;(Unidade de Ligação)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ApiQS99FZD5KeMouJWTY-28" vertex="1">
+          <mxGeometry x="419" y="86" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ApiQS99FZD5KeMouJWTY-28" source="ApiQS99FZD5KeMouJWTY-11" target="ApiQS99FZD5KeMouJWTY-12" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-12" value="&lt;div&gt;2. EXECUÇÃO&lt;/div&gt;&lt;div&gt;(Terceirizada)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ApiQS99FZD5KeMouJWTY-28" vertex="1">
+          <mxGeometry x="419" y="237" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ApiQS99FZD5KeMouJWTY-28" source="ApiQS99FZD5KeMouJWTY-7" target="ApiQS99FZD5KeMouJWTY-11" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-27" value="B-ANÁLISE E CADASTRO" parent="0"/>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-5" value="1. ANÁLISE DE VIABILIDADE TÉCNICA" style="rounded=1;whiteSpace=wrap;html=1;" parent="ApiQS99FZD5KeMouJWTY-27" vertex="1">
+          <mxGeometry x="209" y="227" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ApiQS99FZD5KeMouJWTY-27" source="ApiQS99FZD5KeMouJWTY-5" target="ApiQS99FZD5KeMouJWTY-7" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ApiQS99FZD5KeMouJWTY-7" value="&lt;div&gt;2. CADASTRO COMERCIAL&lt;/div&gt;&lt;div&gt;(Implantação)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="ApiQS99FZD5KeMouJWTY-27" vertex="1">
+          <mxGeometry x="209" y="367" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HFI7xTPP_atM2Y7WmZ0P" name="A - ATENDIMENTO">
+    <mxGraphModel dx="570" dy="427" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jiuOkP8X30983bxHW5AK-0"/>
+        <mxCell id="jiuOkP8X30983bxHW5AK-1" parent="jiuOkP8X30983bxHW5AK-0"/>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="jiuOkP8X30983bxHW5AK-1" source="t2a3-KyeCBMco-ZNKFPz-0" target="t2a3-KyeCBMco-ZNKFPz-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-29" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;i&gt;pré-atendente&lt;br&gt;recebe&lt;/i&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" connectable="0" parent="t2a3-KyeCBMco-ZNKFPz-2">
+          <mxGeometry x="-0.2409" relative="1" as="geometry">
+            <mxPoint x="15" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-0" value="Recepção" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="29" y="230" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="jiuOkP8X30983bxHW5AK-1" source="t2a3-KyeCBMco-ZNKFPz-1" target="t2a3-KyeCBMco-ZNKFPz-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-20" value="&lt;i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;pré-atendente&lt;br&gt;encaminha&lt;/font&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" connectable="0" parent="t2a3-KyeCBMco-ZNKFPz-4">
+          <mxGeometry x="-0.2774" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-1" value="Triagem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="274" y="230" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="jiuOkP8X30983bxHW5AK-1" source="t2a3-KyeCBMco-ZNKFPz-3" target="t2a3-KyeCBMco-ZNKFPz-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;Atendente confere&lt;/i&gt;&lt;/font&gt;&lt;br&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" connectable="0" parent="t2a3-KyeCBMco-ZNKFPz-6">
+          <mxGeometry x="0.0015" y="-9" relative="1" as="geometry">
+            <mxPoint x="8" y="8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="jiuOkP8X30983bxHW5AK-1" source="t2a3-KyeCBMco-ZNKFPz-3" target="t2a3-KyeCBMco-ZNKFPz-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-3" value="Checklist da documentação" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="274" y="360" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-5" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Relação de documentos&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffffff;gradientColor=none;fontSize=14;size=0.16666666666666666;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="21" y="354" width="120" height="64" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="jiuOkP8X30983bxHW5AK-1" source="t2a3-KyeCBMco-ZNKFPz-7" target="t2a3-KyeCBMco-ZNKFPz-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Não&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" connectable="0" parent="t2a3-KyeCBMco-ZNKFPz-12">
+          <mxGeometry x="0.0041" y="-7" relative="1" as="geometry">
+            <mxPoint x="7" y="6" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jiuOkP8X30983bxHW5AK-1" source="t2a3-KyeCBMco-ZNKFPz-7" target="t2a3-KyeCBMco-ZNKFPz-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344" y="566" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-18" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Sim&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" connectable="0" parent="t2a3-KyeCBMco-ZNKFPz-17">
+          <mxGeometry x="-0.0934" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-7" value="Conforme?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="284" y="466" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="jiuOkP8X30983bxHW5AK-1" source="t2a3-KyeCBMco-ZNKFPz-11" target="t2a3-KyeCBMco-ZNKFPz-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Orientar o cliente sobre pendências, solicitar retorno com documentação, e encerrar o atendimento.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="29" y="454" width="160" height="72" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Fim&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;gradientColor=none;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="84.5" y="586" width="49" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-23" value="Abertura de RA&lt;br&gt;(GSAN)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=none;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="264" y="596" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-25" value="&lt;p style=&quot;line-height: 100%&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;A - ATENDIMENTO&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;line-height: 100% ; font-size: 12px&quot;&gt;Fluxograma detalhado da Etapa de Atendimento.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="530" y="131.5" width="279" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-27" value="&lt;p style=&quot;line-height: 100%&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Redesenho de Processos&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;da Cadeia de Valor&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="21" y="54" width="565" height="41" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2a3-KyeCBMco-ZNKFPz-28" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Macroprocesso: Serviços Operacionais&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Processo: Ligação de Água&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+          <mxGeometry x="22" y="93" width="535" height="57" as="geometry"/>
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;br&gt;FLUXOGRAMA GERAL&lt;/b&gt;" link="data:page/id,wLkoinlVrgHqXl1Fj19s" id="-xbD1bsOE6c5fSKQA7YG-0">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="jiuOkP8X30983bxHW5AK-1">
+            <mxGeometry x="528" y="104" width="279" height="28" as="geometry"/>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kKsgfe0-I46FzN-im9zf" name="Anotações gerais - provisório">
+    <mxGraphModel dx="671" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="JDu8-fPftrPs1c6z16VM-0"/>
+        <mxCell id="JDu8-fPftrPs1c6z16VM-1" parent="JDu8-fPftrPs1c6z16VM-0"/>
+        <mxCell id="JDu8-fPftrPs1c6z16VM-2" value="&lt;div style=&quot;text-align: justify&quot;&gt;A. SOLICITAÇÃO&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;0. Pré-atendimento&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;0.1 Recepção&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;0.2 Triagem: Análise da demanda e triagem&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;1. Atendimento&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;1.1 Checklist de documentação&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2. Registro&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.1 Abertura de RA no GSAN&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;B. ANÁLISE DE VIABILIDADE TÉCNICA&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;1. Abertura de Ordem de Serviço de Análise de Viabilidade Técnica&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2. Consulta no BDG Deso Sertão - camadas Dutos de água e Micromedidores&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.1 Acessar o Sistema&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.2 Entrar com os dados de localização (endereço, coordenadas, croquis) e analisar&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Decisão: Com base nos dados existentes é possível identificar se existe Rede de Distribuição em condições de atendimento ao endereço solicitado?&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Não: Realizar Vistoria - (Abertura de Ordem de Serviço)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Sim: Proceder ao cadastro comercial&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2. Cadastro Comercial&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.1 Abertura de Ordem de Serviço para Cadastro Comercial&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.1 Inserir imóvel (Situação 2)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.2 Encerramento de Ordem de Serviço&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.3 Encaminhamento para fase de Execução&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;C. EXECUÇÃO&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;1. Programação&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;1.1 Abertura de Ordem de Serviço para Execução&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;1.2 Lançamento na programação (Planilha Geral de Controle de Execução de Ligações)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2. Implantação&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.1 Agendamento de Visita com o cliente - informe sobre execução do serviço&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.2 Execução da ligação&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.3 Prestação de contas com Unidade de Ligações (retorno da OS)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;D. ENCERRAMENTO&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;1. Validação (Unidade de Ligações valida o serviço)&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Decisão: Serviço conforme e executado a contendo?&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Não: Retorna para Retificação&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Sim: Encerramento&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2. Encerramento&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.1 Encerramento da OS&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.2 Encerramento da RA&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.3 Lançamento na planilha de controle de execução&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="JDu8-fPftrPs1c6z16VM-1">
+          <mxGeometry x="10" y="10" width="580" height="800" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
