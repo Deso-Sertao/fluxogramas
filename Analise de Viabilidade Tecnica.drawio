@@ -1,1 +1,25 @@
-<mxfile host="www.draw.io" modified="2019-11-06T16:34:36.486Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" version="12.2.0" etag="nxDLdwN0VzKhQhxqZxU3" type="github"><diagram id="ghhylSFfgHjQgVcrPekR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-06T16:44:11.102Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="i9V3jMaGWeL7pwoeDBf8" version="12.2.0" type="github" pages="1">
+  <diagram id="ghhylSFfgHjQgVcrPekR" name="Page-1">
+    <mxGraphModel dx="928" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="JzE6JeNeijgl-ERopNni-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ANÁLISE DE VIABILIDADE TÉCNICA&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="810" height="740" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-45" value="A - SOLICITAÇÃO" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
+          <mxGeometry y="20" width="180" height="720" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-46" value="B - VERIFICAÇÃO DE DÉBITOS" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
+          <mxGeometry x="180" y="20" width="230" height="720" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-47" value="C - ANÁLISE TÉCNICA" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
+          <mxGeometry x="410" y="20" width="200" height="720" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-48" value="D - ENCERRAMENTO" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
+          <mxGeometry x="610" y="20" width="200" height="720" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
