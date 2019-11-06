@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-06T18:57:54.557Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="kggcUJL_1eh7UmmMZzuR" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-06T18:59:29.528Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="w908LQyRpdYNPwcZs0iM" version="12.2.0" type="github" pages="1">
   <diagram id="ghhylSFfgHjQgVcrPekR" name="Page-1">
-    <mxGraphModel dx="1856" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3093" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -213,7 +213,7 @@
           <mxGeometry x="180" y="644" width="90" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="JzE6JeNeijgl-ERopNni-185" value="5.0.06.00/GCLE" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#336600;fontStyle=1" vertex="1" parent="JzE6JeNeijgl-ERopNni-46">
-          <mxGeometry x="150" y="370" width="170" height="30" as="geometry"/>
+          <mxGeometry x="10" y="670" width="170" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="JzE6JeNeijgl-ERopNni-48" value="C - ANÁLISE TÉCNICA" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
           <mxGeometry x="680" y="20" width="420" height="720" as="geometry"/>
@@ -423,7 +423,7 @@
           <mxGeometry x="11" y="30" width="329" height="680" as="geometry"/>
         </mxCell>
         <mxCell id="JzE6JeNeijgl-ERopNni-188" value="5.0.06.00/GCLE" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#994C00;fontStyle=1" vertex="1" parent="JzE6JeNeijgl-ERopNni-150">
-          <mxGeometry x="88" y="679" width="170" height="30" as="geometry"/>
+          <mxGeometry x="101.5" y="670" width="170" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="JzE6JeNeijgl-ERopNni-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Arial;fontSize=11;fontColor=#000000;" edge="1" parent="JzE6JeNeijgl-ERopNni-150" source="JzE6JeNeijgl-ERopNni-216" target="JzE6JeNeijgl-ERopNni-217">
           <mxGeometry relative="1" as="geometry">
