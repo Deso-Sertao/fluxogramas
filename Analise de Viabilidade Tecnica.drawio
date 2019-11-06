@@ -1,23 +1,98 @@
-<mxfile host="www.draw.io" modified="2019-11-06T16:44:11.102Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="i9V3jMaGWeL7pwoeDBf8" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-06T16:59:49.349Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="GQ1Uu43vx79T56UdH47p" version="12.2.0" type="github" pages="1">
   <diagram id="ghhylSFfgHjQgVcrPekR" name="Page-1">
     <mxGraphModel dx="928" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="JzE6JeNeijgl-ERopNni-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ANÁLISE DE VIABILIDADE TÉCNICA&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fontFamily=Arial;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="810" height="740" as="geometry"/>
+          <mxGeometry x="20" y="22" width="1110" height="740" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Arial;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JzE6JeNeijgl-ERopNni-44" source="JzE6JeNeijgl-ERopNni-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="298" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="70" y="506"/>
+              <mxPoint x="360" y="506"/>
+              <mxPoint x="360" y="298"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JzE6JeNeijgl-ERopNni-45" value="A - SOLICITAÇÃO" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
-          <mxGeometry y="20" width="180" height="720" as="geometry"/>
+          <mxGeometry y="20" width="340" height="720" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Arial;" edge="1" parent="JzE6JeNeijgl-ERopNni-45" source="JzE6JeNeijgl-ERopNni-50" target="JzE6JeNeijgl-ERopNni-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Arial;" edge="1" parent="JzE6JeNeijgl-ERopNni-45" source="JzE6JeNeijgl-ERopNni-50" target="JzE6JeNeijgl-ERopNni-58">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-50" value="1. Checklist" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontFamily=Arial;fontStyle=1" vertex="1" parent="JzE6JeNeijgl-ERopNni-45">
+          <mxGeometry x="20" y="40" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Arial;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JzE6JeNeijgl-ERopNni-45" source="JzE6JeNeijgl-ERopNni-53" target="JzE6JeNeijgl-ERopNni-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="408" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-53" value="2. Abertura" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Arial;fontStyle=1" vertex="1" parent="JzE6JeNeijgl-ERopNni-45">
+          <mxGeometry x="10" y="378" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-57" value="&lt;div&gt;Protocolo SPD&lt;/div&gt;&lt;div&gt;(Protocolo principal)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontFamily=Arial;verticalAlign=top;" vertex="1" parent="JzE6JeNeijgl-ERopNni-45">
+          <mxGeometry x="200" y="378" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-58" value="&lt;div align=&quot;left&quot;&gt;Documentação&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontFamily=Arial;align=left;verticalAlign=middle;" vertex="1" parent="JzE6JeNeijgl-ERopNni-45">
+          <mxGeometry x="220" y="40" width="110" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Arial;" edge="1" parent="JzE6JeNeijgl-ERopNni-45" source="JzE6JeNeijgl-ERopNni-69" target="JzE6JeNeijgl-ERopNni-53">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-67" value="Documentação completa?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-45">
+          <mxGeometry x="5" y="168" width="130" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-69" value="Sim" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-45">
+          <mxGeometry x="50" y="298" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Arial;" edge="1" parent="JzE6JeNeijgl-ERopNni-45" source="JzE6JeNeijgl-ERopNni-67" target="JzE6JeNeijgl-ERopNni-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="310" as="sourcePoint"/>
+            <mxPoint x="90" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-73" value="Não" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-45">
+          <mxGeometry x="160" y="208" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Arial;" edge="1" parent="JzE6JeNeijgl-ERopNni-45" source="JzE6JeNeijgl-ERopNni-67" target="JzE6JeNeijgl-ERopNni-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="218" as="targetPoint"/>
+            <mxPoint x="135" y="218" as="sourcePoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JzE6JeNeijgl-ERopNni-46" value="B - VERIFICAÇÃO DE DÉBITOS" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
-          <mxGeometry x="180" y="20" width="230" height="720" as="geometry"/>
+          <mxGeometry x="340" y="20" width="230" height="720" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Arial;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JzE6JeNeijgl-ERopNni-46" source="JzE6JeNeijgl-ERopNni-60" target="JzE6JeNeijgl-ERopNni-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="178" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-60" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Arial&quot;&gt;1. &lt;span style=&quot;background-color: transparent ; font-weight: 700 ; font-variant: normal ; text-decoration: none ; vertical-align: baseline ; white-space: pre-wrap&quot; id=&quot;docs-internal-guid-7abce273-7fff-0287-8ae0-c73eb1ac15d4&quot;&gt;Consulta situação de débitos (GSAN)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Arial;fontStyle=1" vertex="1" parent="JzE6JeNeijgl-ERopNni-46">
+          <mxGeometry x="50" y="40" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-66" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-46">
+          <mxGeometry x="80" y="178" width="100" height="82" as="geometry"/>
         </mxCell>
         <mxCell id="JzE6JeNeijgl-ERopNni-47" value="C - ANÁLISE TÉCNICA" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
-          <mxGeometry x="410" y="20" width="200" height="720" as="geometry"/>
+          <mxGeometry x="570" y="20" width="200" height="720" as="geometry"/>
         </mxCell>
         <mxCell id="JzE6JeNeijgl-ERopNni-48" value="D - ENCERRAMENTO" style="swimlane;html=1;startSize=20;fontFamily=Arial;" vertex="1" parent="JzE6JeNeijgl-ERopNni-44">
-          <mxGeometry x="610" y="20" width="200" height="720" as="geometry"/>
+          <mxGeometry x="770" y="20" width="340" height="720" as="geometry"/>
+        </mxCell>
+        <mxCell id="JzE6JeNeijgl-ERopNni-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Arial;" edge="1" parent="1" source="JzE6JeNeijgl-ERopNni-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="260" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
